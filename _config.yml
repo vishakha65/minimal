@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Vishakha Singh </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/vishakha-singh-389463140//">LinkedIn</a> |
+  <a href="https://github.com/vishakha65">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, data engineering and analytics related problems.
+  Also handing the Big Data of automobile industry.
+  Working in Mercedes-Benz for its Big data development Team.
+  Worked with Mu Sigma at Devices Analytics team.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
